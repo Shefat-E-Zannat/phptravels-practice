@@ -1,0 +1,15 @@
+{
+  "name": "phptravels-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "phptravels-practice.js",
+  "scripts": {
+    "phptravels": "testcafe chrome tests/SignUpTests.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.16.1"
+  }
+}
